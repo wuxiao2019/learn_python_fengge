@@ -1,0 +1,9 @@
+# 这里定义一个价格变化律
+ratio = 1.2
+price = 100
+sales_price = price * ratio  #提价
+print(sales_price)
+
+if a == 1 and b == 2 and \
+        c == 3:
+    print("Nice done!")
